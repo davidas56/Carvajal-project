@@ -1,6 +1,6 @@
 # Carvajal-project
 
-# codigo creado con 3 clases y en ellas esta implementado el mvc
+# codigo con el cual esta implementado el mvc
 # incluye una base de datos con mysql
 # esta incluida las vistas con los requerimientos de elimminar,actualizar,agregar
 # en las vistas se puede visualizar la base de los productos su id,nombre,cantidad ...etc
